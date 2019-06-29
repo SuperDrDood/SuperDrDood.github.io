@@ -1,5 +1,5 @@
 $("#test").click(function() {
 
-	$(this).hide;
+	$(this).hide();
 
 });
