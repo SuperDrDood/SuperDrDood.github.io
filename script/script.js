@@ -1,1 +1,5 @@
-$("#test").click().hide();
+$("#test").click(function() {
+
+	$(this).hide;
+
+)};
